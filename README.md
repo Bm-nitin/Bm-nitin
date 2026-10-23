@@ -18,7 +18,7 @@ I enjoy building practical projects and exploring areas such as **Digital Forens
 
 - 🔐 [Basic Image Steganography Detection Tool](https://github.com/Bm-nitin/Basic-Image-Steganography-Detection-Tool) Demo: https://basic-image-steganography-detection-tool.onrender.com/
 - 🤖 [Public Policy Tracker](https://github.com/Bm-nitin/Public-Policy-Tracker) Demo: https://public-policy-tracker.onrender.com/
-- ⚙️ [PDF-Utility-Suite](https://github.com/Bm-nitin/PDF-Utility-Suite)
+- ⚙️ [PDF-Utility-Suite](https://github.com/Bm-nitin/PDF-Utility-Suite) Download Link: https://github.com/Bm-nitin/PDF-Utility-Suite/releases/download/v1.0.0/PDF-Merger-Compressor.exe
 
 ### 🛡️ Experience
 
